@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🔭 I’m currently working on MindCare(https://github.com/adnanshaikh09/MindCare)
 - 🌱 I’m currently learning **Mobile Application Development**
 - 💬 Ask me about **React-Native, Swift, Kotlin, Next.js**
-- 📫 How to reach me: [Your Email](mailto:shaikhadnan0929@gmail.com)
+- 📫 How to reach me: [Email](mailto:shaikhadnan0929@gmail.com)
 
 ---
 
