@@ -28,21 +28,21 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanshaikh09&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanshaikh09&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adnanshaikh09&theme=algolia)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=adnanshaikh09&theme=highcontrast)
 
 ---
 
